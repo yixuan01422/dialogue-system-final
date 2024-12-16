@@ -1,0 +1,1 @@
+run "python shell.py" in cmd with administrator privileges
