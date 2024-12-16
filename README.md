@@ -10,4 +10,9 @@
 - `processed_file_with_updated_addressee.xlsx`: Annotated Friends corpus.
 
 
+## Responsibilities
+
+- **Blake Wang**: LLAMA training + evaluation
+- **Tianshu Ye**: Voice module + backend
+- **Yixuan Du**: Frontend + data annotation.
 
